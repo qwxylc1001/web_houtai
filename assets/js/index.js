@@ -57,9 +57,11 @@ function renderAvatar(user) {
     //2.设置欢迎的文本
     $('#welcome').html('欢迎&nbsp;&nbsp;'+name);
     //  3,按需渲染用户头像
+    // console.log(user)
     if (user.user_pic!==null){
+        // console.log(user.user_pic)
     //    3.1渲染图片头像
-        $('.layui-nav-img').attr('src',user_pic).show();
+        $('.layui-nav-img').attr('src',user.user_pic).show();
         $('.text-avatar').hide();
     }else {
     //3.2渲染文本头像

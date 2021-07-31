@@ -23,8 +23,8 @@ $.ajaxPrefilter(function (options) {
     //无论成功还是失败，最后都会调用complete这个回调函数
     //如果没有登录 就不让他通过URL访问这个页面
     options.complete=function(res){
-        console.log('执行了 complete 回调');
-        console.log(res.responseJSON);
+        // console.log('执行了 complete 回调');
+        // console.log(res.responseJSON);
         //    在complete回调函数中，可以使用res.responseJSON拿到服务器响应回来的数据
         if (res.responseJSON.status === 1 && res.responseJSON.message ==='身份认证失败！'){
             //     // 1.强制清空token
