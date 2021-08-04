@@ -6,19 +6,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e81c895d-a115-42ef-8ea0-e1c5dcde232b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/css/user/user_avatar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/user/user_info.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/user/user_pwd.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/user/user_avatar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/user/user_info.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/user/user_pwd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cropper基本用法头像剪辑的代码示例.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/user_avatar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/user_info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/user_pwd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/article/art.pub.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/article/art_cate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/article/art_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/article/art_cate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/article/art_list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/article/art_pub.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/article/art_cate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/article/art_list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/article/art_pub.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/富文本和封面.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/baseAPI.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/baseAPI.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -34,46 +32,51 @@
     <session id="-199290763">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.3" value="5" />
+          <entry key="project.open.time.3" value="6" />
+          <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="18" />
-          <entry key="html" value="33" />
+          <entry key="css" value="32" />
+          <entry key="html" value="44" />
           <entry key="jpg" value="2" />
-          <entry key="js" value="24" />
-          <entry key="md" value="11" />
+          <entry key="js" value="38" />
+          <entry key="md" value="18" />
           <entry key="png" value="2" />
           <entry key="rnc" value="1" />
+          <entry key="ts" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="18" />
-          <entry key="HTML" value="33" />
+          <entry key="CSS" value="32" />
+          <entry key="HTML" value="44" />
           <entry key="Image" value="4" />
-          <entry key="JavaScript" value="24" />
-          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="JavaScript" value="38" />
+          <entry key="PLAIN_TEXT" value="18" />
           <entry key="RNG Compact" value="1" />
+          <entry key="TypeScript" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="1042" />
-          <entry key="html" value="2905" />
-          <entry key="js" value="5664" />
+          <entry key="css" value="1199" />
+          <entry key="html" value="4941" />
+          <entry key="js" value="11726" />
+          <entry key="md" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="1042" />
-          <entry key="HTML" value="2905" />
-          <entry key="JavaScript" value="5664" />
+          <entry key="CSS" value="1199" />
+          <entry key="HTML" value="4941" />
+          <entry key="JavaScript" value="11726" />
+          <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
     </session>
@@ -81,10 +84,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/article/art_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="36" column="65" selection-start-line="36" selection-start-column="65" selection-end-line="36" selection-end-column="65" />
+            <state relative-caret-position="497">
+              <caret line="78" column="114" selection-start-line="78" selection-start-column="114" selection-end-line="78" selection-end-column="114" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/article/art_list.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="132" column="23" lean-forward="true" selection-start-line="132" selection-start-column="23" selection-end-line="132" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -126,7 +138,17 @@
         <option value="$PROJECT_DIR$/user/user_avatar.html" />
         <option value="$PROJECT_DIR$/assets/js/index.js" />
         <option value="$PROJECT_DIR$/assets/js/user/user_avatar.js" />
+        <option value="$PROJECT_DIR$/assets/css/article/art_cate.css" />
+        <option value="$PROJECT_DIR$/article/art_cate.html" />
+        <option value="$PROJECT_DIR$/assets/js/article/art_cate.js" />
+        <option value="$PROJECT_DIR$/assets/css/article/art_list.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/富文本和封面.md" />
+        <option value="$PROJECT_DIR$/assets/css/article/art_pub.css" />
+        <option value="$PROJECT_DIR$/article/art.pub.html" />
+        <option value="$PROJECT_DIR$/assets/js/article/art_pub.js" />
+        <option value="$PROJECT_DIR$/assets/js/article/art_list.js" />
+        <option value="$PROJECT_DIR$/article/art_list.html" />
       </list>
     </option>
   </component>
@@ -158,13 +180,38 @@
             <path>
               <item name="后端管理系统项目" type="b2602c69:ProjectViewProjectNode" />
               <item name="后端管理系统项目" type="462c0819:PsiDirectoryNode" />
+              <item name="article" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="后端管理系统项目" type="b2602c69:ProjectViewProjectNode" />
+              <item name="后端管理系统项目" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="后端管理系统项目" type="b2602c69:ProjectViewProjectNode" />
               <item name="后端管理系统项目" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="后端管理系统项目" type="b2602c69:ProjectViewProjectNode" />
+              <item name="后端管理系统项目" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="article" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="后端管理系统项目" type="b2602c69:ProjectViewProjectNode" />
+              <item name="后端管理系统项目" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="后端管理系统项目" type="b2602c69:ProjectViewProjectNode" />
+              <item name="后端管理系统项目" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="article" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="后端管理系统项目" type="b2602c69:ProjectViewProjectNode" />
@@ -172,6 +219,11 @@
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
               <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="后端管理系统项目" type="b2602c69:ProjectViewProjectNode" />
+              <item name="后端管理系统项目" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="后端管理系统项目" type="b2602c69:ProjectViewProjectNode" />
@@ -193,6 +245,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\前端ajax练习\后端管理系统项目" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -205,7 +262,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.index.js">
+  <component name="RunManager" selected="JavaScript Debug.login.html">
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/后端管理系统项目/index.html">
       <method v="2" />
     </configuration>
@@ -222,8 +279,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.index.js" />
         <item itemvalue="JavaScript Debug.login.html" />
+        <item itemvalue="Node.js.index.js" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -244,12 +301,15 @@
       <workItem from="1627431602407" duration="3361000" />
       <workItem from="1627525744919" duration="15056000" />
       <workItem from="1627609830036" duration="14574000" />
-      <workItem from="1627691649265" duration="12964000" />
+      <workItem from="1627691649265" duration="22871000" />
+      <workItem from="1627864895136" duration="17142000" />
+      <workItem from="1627950577142" duration="15255000" />
+      <workItem from="1628042727690" duration="12744000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70559000" />
+    <option name="totallyTimeSpent" value="125607000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -262,12 +322,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18440464" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.13593256" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.330076" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.330076" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
@@ -290,11 +349,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/lib/cropper/cropper.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5220" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/lib/cropper/Cropper.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -326,13 +380,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="811">
           <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home/dashboard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7680">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -385,13 +432,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/user/user_info.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="721">
-          <caret line="56" column="44" selection-start-line="56" selection-start-column="44" selection-end-line="56" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/user/user_info.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -399,13 +439,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cropper基本用法头像剪辑的代码.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="31" selection-end-line="170" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/cropper基本用法头像剪辑的代码.md" />
     <entry file="file://$PROJECT_DIR$/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
@@ -413,10 +447,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cropper基本用法头像剪辑的代码示例.md">
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="166" selection-start-line="160" selection-end-line="166" />
+        <state relative-caret-position="298">
+          <caret line="17116" column="12" selection-start-line="17116" selection-start-column="12" selection-end-line="17116" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/article/art_cate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/article/art_cate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="115" column="38" selection-start-line="115" selection-start-column="38" selection-end-line="115" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -427,31 +475,139 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/user/user_avatar.js">
+    <entry file="file://$PROJECT_DIR$/home/dashboard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="70" column="44" lean-forward="true" selection-start-line="70" selection-start-column="44" selection-end-line="70" selection-end-column="44" />
+        <state relative-caret-position="30">
+          <caret line="11" column="59" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/user/user_avatar.html">
+    <entry file="file://$PROJECT_DIR$/article/art_cate.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-539">
-          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/user/user_avatar.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="63" column="15" selection-start-line="63" selection-start-column="15" selection-end-line="63" selection-end-column="15" />
+        <state relative-caret-position="347">
+          <caret line="100" column="3" lean-forward="true" selection-start-line="100" selection-start-column="3" selection-end-line="109" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="377">
-          <caret line="36" column="65" selection-start-line="36" selection-start-column="65" selection-end-line="36" selection-end-column="65" />
+          <caret line="69" column="71" selection-start-line="69" selection-start-column="71" selection-end-line="69" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/article/art_list.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cropper基本用法头像剪辑的代码示例.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="39" column="11" lean-forward="true" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../第四阶段：前后端交互阶段资料新/大事件项目课程资料/day3（7-11小节）/code/article/art_pub.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="61" column="16" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="61" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../第四阶段：前后端交互阶段资料新/大事件项目课程资料/day3（7-11小节）/code/assets/css/article/art_pub.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="811">
+          <caret line="39" lean-forward="true" selection-start-line="11" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../第四阶段：前后端交互阶段资料新/大事件项目课程资料/day3（7-11小节）/code/assets/js/article/art_pub.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="36" column="25" lean-forward="true" selection-start-line="26" selection-start-column="2" selection-end-line="36" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/lib/cropper/cropper.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/user/user_info.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="56" column="44" selection-start-line="56" selection-start-column="44" selection-end-line="56" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/user/user_avatar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="63" selection-start-line="63" selection-end-line="67" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/article/art_pub.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/user/user_avatar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/user_avatar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="661">
+          <caret line="55" selection-start-line="55" selection-end-line="56" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/article/art_pub.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="99" column="19" selection-start-line="99" selection-start-column="19" selection-end-line="99" selection-end-column="19" />
+          <folding>
+            <element signature="e#100#569#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/art.pub.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="45" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#2;n#form#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#div#3;n#form#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/富文本和封面.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="153" lean-forward="true" selection-start-line="153" selection-end-line="160" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/article/art_list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="132" column="23" lean-forward="true" selection-start-line="132" selection-start-column="23" selection-end-line="132" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/art_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="78" column="114" selection-start-line="78" selection-start-column="114" selection-end-line="78" selection-end-column="114" />
         </state>
       </provider>
     </entry>
